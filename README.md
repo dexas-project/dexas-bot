@@ -1,14 +1,14 @@
-# DEXBot
+# Dexas-Bot
 
-![GUI](https://i.imgur.com/rW8XKQ4.png)The Dashboard of the GUI version of DEXBot
+![GUI](http://dl3.joxi.net/drive/2019/01/15/0009/3993/593817/17/9d5e4017ef.png)The Dashboard of the GUI version of Dexas-Bot
 
-![CLI](https://i.imgur.com/H1N96nI.png)The CLI version of DEXBot in configuration dialog
+![CLI](https://i.imgur.com/H1N96nI.png)The CLI version of Dexas-Bot in configuration dialog
 
 A Trading Bot provided with two very flexible Market Making strategies. Works on "vanilla" BitShares and all exchanges built upon it. Can be customized with additional strategies written in Python3.
 
-DEXBot was paid for by the BitShares blockchain (by means of a Worker Proposal), and managed by "The Cabinet", consisting of 6 active BitShares community members. All spending was controlled by an account which requires 3/5 approvals (multisig scheme).
+Dexas-Bot was paid for by the BitShares blockchain (by means of a Worker Proposal), and managed by "The Cabinet", consisting of 6 active BitShares community members. All spending was controlled by an account which requires 3/5 approvals (multisig scheme).
 
-DEXBot can be installed from source or by using the excecutable packages for Windows, OSX, and Linux. Packages include the GUI version, but installation from source provides also the CLI version, which can be used on headless servers and Raspberry Pi's.
+Dexas-Bot can be installed from source or by using the excecutable packages for Windows, OSX, and Linux. Packages include the GUI version, but installation from source provides also the CLI version, which can be used on headless servers and Raspberry Pi's.
 
 The provided strategies can be used to bootstrap new markets, to increase liquidity of an asset, or to try to make profits.
 The _Relative Orders_ strategy is the one most think of when speaking of _Market Making_. In most markets it requires tweaking and active monitoring, and is most suitable for sideways markets or _Arbitrage Enabling_ markets (between stable or otherwise equivalent assets). _Staggered Orders_ is a "set and forget" strategy, which thrives in uncertain conditions (before price discovery or otherwise volatile conditions). It requires a long time to realize profits, but is likely to do so if it isn't touched in the mean time. It requires little monitoring and no tweaking. New markets and assets should be bootstrapped with _Staggered Orders_ and later improved with _Relative Orders_.
