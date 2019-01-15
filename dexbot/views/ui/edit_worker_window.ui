@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>DEXBot - Edit Worker</string>
+   <string>Dexas-Bot - Edit Worker</string>
   </property>
   <layout class="QVBoxLayout" name="verticalLayout">
    <item>

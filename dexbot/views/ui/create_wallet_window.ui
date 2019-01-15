@@ -32,7 +32,7 @@
       </sizepolicy>
      </property>
      <property name="text">
-      <string>Before you can start using DEXBot, you need to create a wallet.</string>
+      <string>Before you can start using Dexas-Bot, you need to create a wallet.</string>
      </property>
      <property name="alignment">
       <set>Qt::AlignCenter</set>

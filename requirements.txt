@@ -8,3 +8,10 @@ requests>=2.20.0
 yarl==1.1.0
 ccxt==1.17.434
 pywaves==0.8.20
+sip>=4.19
+crypto>=1.4
+packaging>=16.0
+pywin32>=200
+pycrypto>=2.6
+PyQt3D>=5.11
+sqlalchemy>=1.3

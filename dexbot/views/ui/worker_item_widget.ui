@@ -21,7 +21,7 @@
    <string>Form</string>
   </property>
   <property name="styleSheet">
-   <string notr="true">background-color: #3A6257;
+   <string notr="true">background-color: #2c2e37;
 color: #ffffff;
 border-radius: 20px;
 </string>
@@ -482,7 +482,7 @@ margin: 0px;</string>
                   <enum>Qt::LeftToRight</enum>
                  </property>
                  <property name="styleSheet">
-                  <string notr="true">background-color: #3A6257; border-radius: 10px;float:right;</string>
+                  <string notr="true">background-color: #2c2e37; border-radius: 10px;float:right;</string>
                  </property>
                 </widget>
                </item>

@@ -14,14 +14,14 @@
    <cursorShape>ArrowCursor</cursorShape>
   </property>
   <property name="windowTitle">
-   <string>DEXBot</string>
+   <string>Dexas-Bot</string>
   </property>
   <property name="whatsThis">
    <string/>
   </property>
   <property name="styleSheet">
    <string notr="true">* {
-    background-color: #152B2A;
+    background-color: #191a1f;
 }
 
 QScrollBar {
@@ -146,14 +146,14 @@ QScrollBar {
             </property>
             <property name="minimumSize">
              <size>
-              <width>0</width>
+              <width>60</width>
               <height>60</height>
              </size>
             </property>
             <property name="maximumSize">
              <size>
               <width>100</width>
-              <height>60</height>
+              <height>100</height>
              </size>
             </property>
             <property name="text">
@@ -255,7 +255,7 @@ QScrollBar {
                 <number>-1</number>
                </property>
                <property name="styleSheet">
-                <string notr="true">border: 0px; background-color: #3A6257; width: 250px; height: 20px; border-radius: 10px; color: #ffffff;</string>
+                <string notr="true">border: 0px; background-color: #2c2e37; width: 250px; height: 20px; border-radius: 10px; color: #ffffff;</string>
                </property>
                <property name="text">
                 <string>Add worker</string>
@@ -325,7 +325,7 @@ QScrollBar {
              <cursorShape>PointingHandCursor</cursorShape>
             </property>
             <property name="styleSheet">
-             <string notr="true">border: 0px; background-color: #3A6257; width: 250px; height: 30px; border-radius: 10px; color: #ffffff;</string>
+             <string notr="true">border: 0px; background-color: #2c2e37; width: 250px; height: 30px; border-radius: 10px; color: #ffffff;</string>
             </property>
             <property name="text">
              <string>Settings</string>
@@ -350,7 +350,7 @@ QScrollBar {
              <cursorShape>PointingHandCursor</cursorShape>
             </property>
             <property name="styleSheet">
-             <string notr="true">border: 0px; background-color: #3A6257; width: 250px; height: 30px; border-radius: 10px; color: #ffffff;</string>
+             <string notr="true">border: 0px; background-color: #2c2e37; width: 250px; height: 30px; border-radius: 10px; color: #ffffff;</string>
             </property>
             <property name="text">
              <string>Help</string>
